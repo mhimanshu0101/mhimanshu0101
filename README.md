@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on project [**Gowholsale**](https://github.com/gowholsale)
 
-- 🌱 I’m currently learning **JavaScript,React,Node.js,Python**
+- :atom: Open source contribution at **Netflix, Google**
 
 - 👨‍💻 All of my projects are available at [https://martial-man.netlify.app/](https://martial-man.netlify.app/)
 
@@ -39,9 +39,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mhimanshu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mhimanshu" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhimanshu0101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mhimanshu0101" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhimanshu0101&show_icons=true&locale=en&layout=compact" alt="mhimanshu0101" />
 </p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhimanshu0101&show_icons=true&locale=en&theme=tokyonight" alt="mhimanshu0101" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhimanshu0101&theme=tokyonight" alt="mhimanshu0101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhimanshu0101&show_icons=true&locale=en" alt="mhimanshu0101" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhimanshu0101" alt="mhimanshu0101" /></p>
 
 
