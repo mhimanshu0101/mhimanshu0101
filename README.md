@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on project [**Gowholsale**](https://github.com/gowholsale)
 
-- :atom: Open source contribution at **Netflix(https://github.com/Netflix/lemur-docker/pull/70), Google**
+- :atom: Open source contribution at [**Netflix**](https://github.com/Netflix/lemur-docker/pull/70), Google**
 
 - 👨‍💻 All of my projects are available at [https://martial-man.netlify.app/](https://martial-man.netlify.app/)
 
