@@ -11,13 +11,13 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on project [**Gowholsale**](https://github.com/gowholsale)
+- 🔭 I’m currently working on project [**Gowholsale**](https://github.com/gowholsale) for Mean stack practice.
 
 - :atom: Open source contribution at [**Netflix**](https://github.com/Netflix/lemur-docker/pull/70), [**Google**](https://github.com/google/python-fire/pull/372)
 
 - 👨‍💻 All of my projects are available at [https://martial-man.netlify.app/](https://martial-man.netlify.app/)
 
-- 💬 Ask me about **Python,Django,GIT,REST API,Docker,AWS,Nginx,Postgres,NodeJS,Open-source,Redis**
+- 💬 Ask me about **Python,Django,GIT,REST API,Docker,AWS,Nginx,Postgres,NodeJS,Open-source,Redis, HTML, CSS, Javascript, ReactJs**
 
 - ⚡ Fun fact **World first programmer was a women, but men took the most developer jobs**
 
