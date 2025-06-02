@@ -11,7 +11,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on project [**Gowholsale**](https://github.com/gowholsale) for Mean stack practice.
+- 🔭 I’m currently working as Senior Software Engineer for [**Boston Consulting Group**](https://www.bcg.com/x/) and building next gen Agentic AI Solutions for Customer Service Engagement services.
 
 - :atom: Open source contribution at [**Netflix**](https://github.com/Netflix/lemur-docker/pull/70), [**Google**](https://github.com/google/python-fire/pull/372)
 
